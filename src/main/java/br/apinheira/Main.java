@@ -1,7 +1,7 @@
 package br.apinheira;
 
-import br.apinheira.threadlocal.SecurityContext;
-import br.apinheira.threadlocal.SecurityContextRunner;
+import br.apinheira.thread.threadlocal.SecurityContext;
+import br.apinheira.thread.threadlocal.SecurityContextRunner;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package br.apinheira.threadlocal;
+package br.apinheira.thread.threadlocal;
 
 /**
  * Representa o "contexto de segurança" da execução atual

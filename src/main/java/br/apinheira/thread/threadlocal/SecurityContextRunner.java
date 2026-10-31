@@ -1,4 +1,4 @@
-package br.apinheira.threadlocal;
+package br.apinheira.thread.threadlocal;
 
 /**
  * Classe que guarda o SecurityContext em uma ThreadLocal e permite
